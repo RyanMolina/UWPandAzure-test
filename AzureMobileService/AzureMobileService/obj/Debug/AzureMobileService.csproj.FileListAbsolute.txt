@@ -1,0 +1,375 @@
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\AutoMapper.Net4.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\AzureMobileService.dll.config
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\AzureMobileService.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\AzureMobileService.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Autofac.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\AutoMapper.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\EntityFramework.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\EntityFramework.SqlServer.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Data.Edm.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Data.OData.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Jwt.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.ServiceBus.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Newtonsoft.Json.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Owin.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\RazorEngine.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Net.Http.Formatting.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Spatial.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Web.Cors.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Web.Http.Cors.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Web.Http.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Web.Http.OData.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Web.Http.Owin.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Web.Http.Tracing.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Web.Razor.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Autofac.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\AutoMapper.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\EntityFramework.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\EntityFramework.SqlServer.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Data.Edm.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Data.OData.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Jwt.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.ServiceBus.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\Newtonsoft.Json.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\RazorEngine.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\RazorEngine.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Net.Http.Formatting.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Spatial.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Web.Http.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Web.Http.Cors.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Web.Http.OData.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Web.Http.Owin.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Web.Http.Tracing.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\System.Web.Razor.xml
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\de\System.Spatial.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\es\System.Spatial.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\fr\System.Spatial.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\it\System.Spatial.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ja\System.Spatial.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ko\System.Spatial.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\ru\System.Spatial.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\obj\Debug\AzureMobileService.dll
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\obj\Debug\AzureMobileService.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\AzureMobileService\AzureMobileService\obj\Debug\AzureMobileService.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\AutoMapper.Net4.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\AzureMobileService.dll.config
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\AzureMobileService.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\AzureMobileService.pdb
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Autofac.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\AutoMapper.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\EntityFramework.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\EntityFramework.SqlServer.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Data.Edm.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Data.OData.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.ServiceBus.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Newtonsoft.Json.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Owin.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\RazorEngine.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Net.Http.Formatting.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Spatial.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Web.Cors.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Web.Http.Cors.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Web.Http.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Web.Http.OData.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Web.Http.Owin.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Web.Http.Tracing.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Web.Razor.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Autofac.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\AutoMapper.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\EntityFramework.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\EntityFramework.SqlServer.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Data.Edm.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Data.OData.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.ServiceBus.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\Newtonsoft.Json.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\RazorEngine.pdb
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\RazorEngine.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Net.Http.Formatting.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Spatial.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Web.Http.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Web.Http.Cors.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Web.Http.OData.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Web.Http.Owin.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Web.Http.Tracing.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\System.Web.Razor.xml
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\de\System.Spatial.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\es\System.Spatial.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\fr\System.Spatial.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\it\System.Spatial.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ja\System.Spatial.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ko\System.Spatial.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\ru\System.Spatial.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\obj\Debug\AzureMobileService.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\obj\Debug\AzureMobileService.dll
+C:\Users\Ryan\Desktop\AzureMobileService\AzureMobileService\obj\Debug\AzureMobileService.pdb
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\AutoMapper.Net4.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\AzureMobileService.dll.config
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\AzureMobileService.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\AzureMobileService.pdb
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Autofac.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\AutoMapper.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\EntityFramework.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\EntityFramework.SqlServer.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Data.Edm.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Data.OData.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.ActiveDirectory.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.ServiceBus.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Newtonsoft.Json.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Owin.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\RazorEngine.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Net.Http.Formatting.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Spatial.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Web.Cors.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Web.Http.Cors.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Web.Http.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Web.Http.OData.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Web.Http.Owin.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Web.Http.Tracing.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Web.Razor.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Autofac.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\AutoMapper.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\EntityFramework.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\EntityFramework.SqlServer.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Data.Edm.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Data.OData.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.ActiveDirectory.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.ServiceBus.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.Entity.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Microsoft.WindowsAzure.Mobile.Service.Tables.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\Newtonsoft.Json.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\RazorEngine.pdb
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\RazorEngine.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Net.Http.Formatting.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Spatial.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Web.Http.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Web.Http.Cors.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Web.Http.OData.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Web.Http.Owin.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Web.Http.Tracing.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\System.Web.Razor.xml
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Entity.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\de\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\es\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\fr\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\it\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ja\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ko\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ru\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\zh-Hans\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\zh-Hant\Microsoft.WindowsAzure.Mobile.Service.Tables.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\de\System.Spatial.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\es\System.Spatial.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\fr\System.Spatial.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\it\System.Spatial.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ja\System.Spatial.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ko\System.Spatial.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\ru\System.Spatial.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\obj\Debug\AzureMobileService.csprojResolveAssemblyReference.cache
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\obj\Debug\AzureMobileService.dll
+C:\Users\RyanPC\Desktop\adprog\AzureMobileService\AzureMobileService\obj\Debug\AzureMobileService.pdb

@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="AppAdmin.SignUpPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppAdmin"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <StackPanel Margin="5" >
+        <TextBox PlaceholderText="First Name" Name="firstName" Header="First Name" />
+        <TextBox PlaceholderText="Last Name" Name="lastName" Header="Last Name" />
+        <TextBox PlaceholderText="Email address" Name="email" Header="Email address" />
+        <PasswordBox PlaceholderText="Password" Name="password" Header="Password" />
+        <PasswordBox PlaceholderText="Re-type password" Name="retypepass" Header="Re-type password" />
+        <TextBlock Text="" Name="message" />
+        <Button IsEnabled="False" Name="signUpBtn" Click="signUpBtn_Click" Content="Sign up" HorizontalAlignment="Right"/>
+    </StackPanel>
+</Page>

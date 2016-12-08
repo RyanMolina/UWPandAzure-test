@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="AppAdmin.LogInPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppAdmin"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+        <StackPanel x:ConnectionId='1' Name="signIn" RelativePanel.AlignHorizontalCenterWithPanel="True">
+            <TextBox x:ConnectionId='2' Margin="5" Background="White" Name="username"  PlaceholderText="Username"/>
+            <PasswordBox x:ConnectionId='3' Margin="5" Background="White" Name="password" PlaceholderText="Password"  />
+            <HyperlinkButton x:ConnectionId='4' Name="forgotPassword"                              Margin="5" Padding="0" Content="Forgot Password" />
+            <Button x:ConnectionId='5' HorizontalAlignment="Right" Margin="5" Name="signInBtn" BorderBrush="Gray" Background="DarkOrange"                      Content="Sign In"/>
+            <ProgressRing x:ConnectionId='6' Foreground="Black" Height="100" Width="100" Name="progressRing" />
+        </StackPanel>
+
+</Page>
+

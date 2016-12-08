@@ -1,0 +1,203 @@
+﻿<Page
+    x:Class="AppAdmin.Form"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppAdmin"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+
+
+
+        <ScrollViewer Background="#eee" HorizontalContentAlignment="Center" HorizontalScrollBarVisibility="Disabled" Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <Grid Name="form" Background="White" MaxWidth="851" Padding="10,0,20,0">
+                <Grid.Resources>
+                    <Style TargetType="TextBox">
+                        <Setter Property="Margin" Value="0,5,0,5" />
+                    </Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="#da532c" />
+                        <Setter Property="Foreground" Value="White" />
+                    </Style>
+                </Grid.Resources>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition MinWidth="150" Width="1*" />
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <RelativePanel Margin="-10,0,-20,0" Grid.ColumnSpan="3">
+                    <Image Name="coverPhoto" MaxWidth="851" MaxHeight="315" RelativePanel.AlignLeftWithPanel="True" Source="Assets/coverphoto.png" Stretch="UniformToFill"/>
+                    <Button Click="upload_Click" Name="uploadBtn" RelativePanel.AlignBottomWithPanel="True" Content="Upload Coverphoto ..." />
+                    <Button Visibility="Collapsed" Click="removeCoverphoto_Click" Margin="20,0,0,0" Name="removeCoverphoto" RelativePanel.AlignBottomWithPanel="True" RelativePanel.RightOf="uploadBtn" Content="Remove"/>
+                </RelativePanel>
+                <TextBox Header="Name" Name="name" Grid.ColumnSpan="2" Grid.Row="1" PlaceholderText="Name"/>
+                <TextBox Header="Address" Name="address"  Grid.ColumnSpan="2" Grid.Row="2" PlaceholderText="Address"/>
+                <TextBox Header="Contact"  Name="contact"  Grid.ColumnSpan="2" Grid.Row="3" PlaceholderText="Contact"  />
+                <TextBox Header="Cost" Name="cost"  Grid.Row="4"  PlaceholderText="Cost for two" />
+                <RichEditBox Header="Description" Name="description"  Grid.ColumnSpan="2" Grid.Row="5"  PlaceholderText="Description" Height="100" />
+                <CheckBox Name="creditCard"  Grid.Row="6"  Content="Credit Card" />
+                <CheckBox Name="wifi"  Grid.Row="6" Grid.Column="1"  Content="Wifi" />
+                <CheckBox Name="outdoorSeating"  Grid.Row="7" Content="Outdoor Seating" />
+                <CheckBox Name="petFriendly"  Grid.Row="7" Grid.Column="1"  Content="Pet Friendly" />
+                <TextBlock Text="Menu" FontSize="24" Grid.Row="8"/>
+                <Button Grid.Row="9" Click="menuImage_Click" Name="menuImage" Content="Upload Menu..." />
+                <Button Grid.Row="9" Visibility="Collapsed" Content="Delete" Grid.Column="1" Name="deleteMenuImage" Click="deleteMenuImage_Click"/>
+                <GridView Grid.Row="10" Grid.ColumnSpan="3" Name="menuImages">
+                    <GridView.ItemTemplate>
+                        <DataTemplate>
+                            <Image Height="64" Width="64" Margin="6" Source="{Binding Image}" />
+                        </DataTemplate>
+                    </GridView.ItemTemplate>
+                </GridView>
+                <TextBlock FontSize="24" Text="Store Time" Grid.Row="11" />
+                <Grid Grid.Row="12" Grid.ColumnSpan="3">
+                    <Grid.Resources>
+                        <Style TargetType="StackPanel">
+                            <Setter Property="Orientation" Value="Horizontal" />
+                            <Setter Property="Grid.Column" Value="1" />
+                            <Setter Property="Margin" Value="0,10,0,10" />
+                        </Style>
+                        <Style TargetType="TimePicker" >
+                            <Setter Property="IsEnabled" Value="False" />
+                            <Setter Property="Time" Value="0" />
+                        </Style>
+                        <Style TargetType="TextBlock">
+                        <Setter Property="Margin" Value="10,0,10,0"/>
+                    </Style>
+
+                    </Grid.Resources>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                        <RowDefinition Height="auto" />
+                    </Grid.RowDefinitions>
+                
+                    <StackPanel Name="sunday" Grid.Row="0">
+                        <CheckBox Name="sun" Content="Sun" />
+                        <TimePicker Time="0" Name="sunOpenTime"  />
+                        <TextBlock Text="to" />
+                        <TimePicker Name="sunCloseTime"/>
+                    </StackPanel>
+                
+                    <StackPanel Name="monday" Grid.Row="1" >
+                        <CheckBox Name="mon" Content="Mon" />
+                        <TimePicker Time="0" Name="monOpenTime"  />
+                        <TextBlock Text="to" />
+                        <TimePicker Name="monCloseTime"/>
+                    </StackPanel>
+                    <StackPanel Name="tuesday" Grid.Row="2">
+                        <CheckBox Name="tue" Grid.Row="2" Content="Tue" />
+                        <TimePicker Time="0" Name="tueOpenTime"  />
+                        <TextBlock Text="to" />
+                        <TimePicker Name="tueCloseTime"/>
+                    </StackPanel>
+                    <StackPanel Name="wednesday" Grid.Row="3">
+                        <CheckBox Name="wed" Grid.Row="3" Content="Wed" />
+                        <TimePicker Time="0" Name="wedOpenTime"  />
+                        <TextBlock Text="to" />
+                        <TimePicker Name="wedCloseTime"/>
+                    </StackPanel>
+                    <StackPanel Name="thursday" Grid.Row="4">
+                        <CheckBox Name="thu" Grid.Row="4" Content="Thu" />
+                        <TimePicker Time="0" Name="thuOpenTime"  />
+                        <TextBlock Text="to" />
+                        <TimePicker Name="thuCloseTime"/>
+                    </StackPanel>
+                    <StackPanel Name="friday" Grid.Row="5">
+                        <CheckBox Name="fri" Grid.Row="5" Content="Fri" />
+                        <TimePicker Time="0" Name="friOpenTime"  />
+                        <TextBlock Text="to" />
+                        <TimePicker Name="friCloseTime"/>
+                    </StackPanel>
+                    <StackPanel Name="saturday" Grid.Row="6">
+                        <CheckBox Name="sat" Grid.Row="6" Content="Sat" />
+                        <TimePicker Time="0" Name="satOpenTime"  />
+                        <TextBlock Text="to" />
+                        <TimePicker Name="satCloseTime"/>
+                    </StackPanel>
+                </Grid>
+                <TextBlock Grid.Row="13" Text="Cuisines" FontSize="24" />
+                <Border  Grid.Row="14" Grid.ColumnSpan="3" BorderBrush="Black" BorderThickness="2">
+                    <ScrollViewer Height="300">
+
+                        
+                        <ListView SelectionChanged="Tags_SelectionChanged" Name="Tags" SelectionMode="Multiple">
+                            <ListView.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <VirtualizingStackPanel HorizontalAlignment="Center"/>
+                                </ItemsPanelTemplate>
+                            </ListView.ItemsPanel>
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding}" />
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    
+                    </ScrollViewer>
+                </Border>
+            <StackPanel Name="buttons" Grid.Row="15" Grid.Column="3" Orientation="Horizontal">
+                    <Button Margin="10" Name="add" IsEnabled="False" Grid.Row="13" Grid.Column="0" Content="Add" Click="add_Click"/>
+                    <Button Margin="10" Grid.Row="15" Grid.Column="1" Content="Clear" Name="clear" Click="clear_Click"/>
+                </StackPanel>
+
+            </Grid>
+            <VisualStateManager.VisualStateGroups>
+                <VisualStateGroup>
+                    <VisualState x:Name="wide">
+                        <VisualState.StateTriggers>
+                            <AdaptiveTrigger MinWindowWidth="800" />
+                        </VisualState.StateTriggers>
+                        <VisualState.Setters>
+
+                        </VisualState.Setters>
+                    </VisualState>
+                    <VisualState x:Name="narrow">
+                        <VisualState.StateTriggers>
+                            <AdaptiveTrigger MinWindowWidth="0" />
+                        </VisualState.StateTriggers>
+                        <VisualState.Setters>
+                            <Setter Target="sunday.Orientation" Value="Vertical" />
+                            <Setter Target="monday.Orientation" Value="Vertical" />
+                            <Setter Target="tuesday.Orientation" Value="Vertical" />
+                            <Setter Target="wednesday.Orientation" Value="Vertical" />
+                            <Setter Target="thursday.Orientation" Value="Vertical" />
+                            <Setter Target="friday.Orientation" Value="Vertical" />
+                            <Setter Target="saturday.Orientation" Value="Vertical" />
+                            <Setter Target="name.(Grid.ColumnSpan)" Value="3" />
+                            <Setter Target="address.(Grid.ColumnSpan)" Value="3" />
+                            <Setter Target="description.(Grid.ColumnSpan)" Value="3" />
+                            <Setter Target="contact.(Grid.ColumnSpan)" Value="3" />
+                            <Setter Target="buttons.(Grid.Column)" Value="1" />
+                    </VisualState.Setters>
+                    </VisualState>
+                </VisualStateGroup>
+            </VisualStateManager.VisualStateGroups>
+        </ScrollViewer>
+ 
+</Page>

@@ -1,0 +1,24 @@
+﻿<ContentDialog
+    x:Class="App.View.SignInDialog"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App.View"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    x:Name="ContentDialog"
+    Title="Sign In"
+    PrimaryButtonText="Sign In"
+    SecondaryButtonText="Cancel"
+    PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
+    SecondaryButtonClick="ContentDialog_SecondaryButtonClick">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <TextBox Text="{Binding ElementName=ContentDialog, Path=Username, Mode=TwoWay}" PlaceholderText="Email Address" Grid.Row="0" />
+        <PasswordBox Password="{Binding ElementName=ContentDialog, Path=Password, Mode=TwoWay}" PlaceholderText="Password" Grid.Row="1" />
+    </Grid>
+</ContentDialog>

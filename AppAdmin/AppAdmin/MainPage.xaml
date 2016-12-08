@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="AppAdmin.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppAdmin"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+
+    <RelativePanel Background="#eee">
+        <RelativePanel Name="coverphoto" RelativePanel.AlignTopWithPanel="True" HorizontalAlignment="Stretch" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True">
+            <Image Opacity=".7" Source="Assets/landingpage.jpg" MaxHeight="315" Stretch="UniformToFill"/>
+            <TextBlock Text="Hi There!" RelativePanel.AlignVerticalCenterWithPanel="True" 
+                       RelativePanel.AlignHorizontalCenterWithPanel="True" 
+                       FontSize="36" Foreground="White"/>
+        </RelativePanel>
+        <Frame Navigated="myFrame_Navigated" Margin="20" Width="250" RelativePanel.Below="coverphoto" RelativePanel.AlignHorizontalCenterWithPanel="True" Name="myFrame"/>
+    </RelativePanel>
+</Page>

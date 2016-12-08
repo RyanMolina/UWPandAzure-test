@@ -1,0 +1,74 @@
+﻿<Page
+    x:Class="App.View.FilterPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App.View"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" Background="Gray">
+            <RelativePanel>
+                <TextBlock Margin="10"  Text="Filter" Foreground="White" />
+                <Button Margin="5" Foreground="White" RelativePanel.AlignRightWithPanel="True" Content="Reset" />
+            </RelativePanel>
+        </Border>
+        <ScrollViewer x:ConnectionId='1' Grid.Row="1"  Name="filter" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <Border Background="LightGray">
+                    <TextBlock Margin="10" FontSize="12" Text="Sort by" FontStretch="UltraCondensed"/>
+                </Border>
+
+                <ListView x:ConnectionId='5' Name="Sortby" SelectionMode="Single"                                   >
+                    <ListView.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <VirtualizingStackPanel Orientation="Horizontal" HorizontalAlignment="Center"/>
+                        </ItemsPanelTemplate>
+                    </ListView.ItemsPanel>
+                    <ListView.ItemContainerStyle>
+                        <Style TargetType="ListViewItem">
+                            <Setter Property="HorizontalContentAlignment" Value="Center" />
+                        </Style>
+                    </ListView.ItemContainerStyle>
+                    <ListViewItem IsSelected="True">
+                        <StackPanel>
+                            <Image Source="Assets/rating.png" />
+                            <TextBlock Text="Cost (High)" FontWeight="Light" />
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem>
+                        <StackPanel>
+                            <Image Source="Assets/rating.png" />
+                            <TextBlock Text="Cost (Low)" FontWeight="Light" />
+                        </StackPanel>
+                    </ListViewItem>
+
+                </ListView>
+                <Border Background="LightGray">
+                    <TextBlock Margin="10" FontSize="12" Text="Cuisine" FontStretch="UltraCondensed"/>
+                </Border>
+                <ListView x:ConnectionId='6' Name="filterList"
+                          SelectionMode="Single"
+                          Background="#eeeeee"
+                                                                        >
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding}" />
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackPanel>
+        </ScrollViewer>
+        <CommandBar x:ConnectionId='2' Grid.Row="2" Name="commandBar" Visibility="Collapsed" VerticalAlignment="Bottom">
+            <AppBarSeparator/>
+            <AppBarButton x:ConnectionId='3' Icon="Accept" Label="Apply"                      />
+            <AppBarButton x:ConnectionId='4' Icon="Cancel" Label="Cancel"                      />
+        </CommandBar>
+    </Grid>
+</Page>
+
