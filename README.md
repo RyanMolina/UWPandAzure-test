@@ -1,7 +1,7 @@
 ## Resto Finder with admin functionality
 
 ### Restaurant Admin Login
-[!Login](https://user-images.githubusercontent.com/11855694/36575318-5e73bb9a-1885-11e8-97e1-09c00a39017e.PNG)
+[!Login][https://user-images.githubusercontent.com/11855694/36575318-5e73bb9a-1885-11e8-97e1-09c00a39017e.PNG]
 
 ### Add Restaurant Form
 [!Form](https://user-images.githubusercontent.com/11855694/36575326-633f0792-1885-11e8-9d07-a8e3a6b50ffd.PNG)
