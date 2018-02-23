@@ -1,4 +1,4 @@
-## Resto Finder with admin functionality
+## Resto Finder with admin functionality (Project in C# Class)
 
 ### Restaurant Admin Login
 ![Login](https://user-images.githubusercontent.com/11855694/36575318-5e73bb9a-1885-11e8-97e1-09c00a39017e.PNG)
